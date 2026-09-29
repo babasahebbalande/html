@@ -1,2 +1,2 @@
 # html
-This is a html repository.
+This is a HTML repository.
